@@ -1,0 +1,15 @@
+!<thin>
+//                                              86        `
+serial_core.o/
+earlycon.o/
+imx.o/
+imx_earlycon.o/
+fsl_lpuart.o/
+serial_mctrl_gpio.o/
+
+/0              0           0     0     644     51148     `
+/15             0           0     0     644     5956      `
+/27             0           0     0     644     30992     `
+/34             0           0     0     644     2884      `
+/50             0           0     0     644     42996     `
+/64             0           0     0     644     9968      `

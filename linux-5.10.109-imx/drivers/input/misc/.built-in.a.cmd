@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/built-in.a := rm -f drivers/input/misc/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/input/misc/built-in.a drivers/input/misc/mma8450.o drivers/input/misc/mpl3115.o drivers/input/misc/fxls8471.o drivers/input/misc/fxls8471_i2c.o drivers/input/misc/isl29023.o drivers/input/misc/rpmsg_input.o

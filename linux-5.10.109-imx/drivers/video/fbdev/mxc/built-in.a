@@ -1,0 +1,40 @@
+!<thin>
+//                                              310       `
+mxc_dispdrv.o/
+mipi_dsi_northwest.o/
+mxc_edid.o/
+adv7535.o/
+mxcfb_hx8363_wvga.o/
+mxcfb_hx8369_wvga.o/
+mxcfb_rm68200_wxga.o/
+mxcfb_rm68191_qhd.o/
+mipi_dsi_samsung.o/
+mipi_dsi.o/
+ldb.o/
+mxsfb_sii902x.o/
+mxsfb_sii902x_audio.o/
+mxc_hdmi.o/
+mxc_dcic.o/
+mxc_lcdif.o/
+mxc_ipuv3_fb.o/
+mxc_epdc_fb.o/
+mxc_epdc_v2_fb.o/
+/0              0           0     0     644     5884      `
+/15             0           0     0     644     21584     `
+/37             0           0     0     644     11516     `
+/49             0           0     0     644     10664     `
+/60             0           0     0     644     3688      `
+/81             0           0     0     644     6032      `
+/102            0           0     0     644     40196     `
+/124            0           0     0     644     9804      `
+/145            0           0     0     644     14480     `
+/165            0           0     0     644     17820     `
+/177            0           0     0     644     14812     `
+/184            0           0     0     644     11380     `
+/201            0           0     0     644     3580      `
+/224            0           0     0     644     32012     `
+/236            0           0     0     644     11472     `
+/248            0           0     0     644     7520      `
+/261            0           0     0     644     48552     `
+/277            0           0     0     644     50744     `
+/292            0           0     0     644     55560     `

@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/smsc/built-in.a := rm -f drivers/net/ethernet/smsc/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/net/ethernet/smsc/built-in.a drivers/net/ethernet/smsc/smc91x.o drivers/net/ethernet/smsc/smc911x.o drivers/net/ethernet/smsc/smsc911x.o

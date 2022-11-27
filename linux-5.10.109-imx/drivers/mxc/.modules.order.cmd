@@ -1,0 +1,1 @@
+cmd_drivers/mxc/modules.order := {   cat drivers/mxc/gpu-viv/modules.order;   cat drivers/mxc/sim/modules.order;   cat drivers/mxc/mlb/modules.order;   cat drivers/mxc/ipu3/modules.order;   cat drivers/mxc/hdmi-cec/modules.order;   cat drivers/mxc/vpu/modules.order;   cat drivers/mxc/mipi/modules.order; :; } | awk '!x[$$0]++' - > drivers/mxc/modules.order

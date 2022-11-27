@@ -1,0 +1,1 @@
+cmd_drivers/phy/freescale/built-in.a := rm -f drivers/phy/freescale/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/phy/freescale/built-in.a drivers/phy/freescale/phy-fsl-imx8-pcie.o

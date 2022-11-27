@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/helene.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/helene.ko drivers/media/dvb-frontends/helene.o drivers/media/dvb-frontends/helene.mod.o;  true

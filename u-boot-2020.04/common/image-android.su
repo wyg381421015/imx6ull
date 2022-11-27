@@ -1,0 +1,16 @@
+common/image-android.c:50:13:append_kernel_cmdline	600	static
+common/image-android.c:202:5:android_image_get_kernel	2080	static
+common/image-android.c:286:5:android_image_get_kernel_v3	2072	static
+common/image-android.c:353:5:android_image_check_header	0	static
+common/image-android.c:511:13:android_image_get_dtb_img_addr	24	static
+common/image-android.c:358:5:android_image_check_header_v3	8	static
+common/image-android.c:365:7:android_image_get_end	16	static
+common/image-android.c:388:7:android_image_get_kload	0	static
+common/image-android.c:393:7:android_image_get_kcomp	0	static
+common/image-android.c:405:5:android_image_get_ramdisk	16	static
+common/image-android.c:424:5:android_image_get_second	16	static
+common/image-android.c:462:6:android_image_get_dtbo	24	static
+common/image-android.c:563:6:android_image_get_dtb_by_index	40	static
+common/image-android.c:631:6:android_print_contents	32	static
+common/image-android.c:721:6:android_image_print_dtb_contents	56	static
+common/image-android.c:777:6:image_arm64	0	static

@@ -1,0 +1,20 @@
+!<thin>
+//                                              132       `
+cpuidle.o/
+driver.o/
+governor.o/
+sysfs.o/
+governors/menu.o/
+dt_idle_states.o/
+cpuidle-arm.o/
+cpuidle-psci.o/
+cpuidle-psci-domain.o/
+/0              0           0     0     644     16776     `
+/11             0           0     0     644     6620      `
+/21             0           0     0     644     3232      `
+/33             0           0     0     644     12032     `
+/42             0           0     0     644     5292      `
+/60             0           0     0     644     4364      `
+/78             0           0     0     644     4892      `
+/93             0           0     0     644     8244      `
+/109            0           0     0     644     7116      `

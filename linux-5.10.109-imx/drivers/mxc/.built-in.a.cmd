@@ -1,0 +1,1 @@
+cmd_drivers/mxc/built-in.a := rm -f drivers/mxc/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/mxc/built-in.a drivers/mxc/gpu-viv/built-in.a drivers/mxc/sim/built-in.a drivers/mxc/mlb/built-in.a drivers/mxc/ipu3/built-in.a drivers/mxc/hdmi-cec/built-in.a drivers/mxc/vpu/built-in.a drivers/mxc/mipi/built-in.a

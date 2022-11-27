@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/vtl/built-in.a := rm -f drivers/input/touchscreen/vtl/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/input/touchscreen/vtl/built-in.a drivers/input/touchscreen/vtl/vtl_ts.o

@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/tcpm/built-in.a := rm -f drivers/usb/typec/tcpm/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/usb/typec/tcpm/built-in.a drivers/usb/typec/tcpm/tcpm.o drivers/usb/typec/tcpm/fusb302.o

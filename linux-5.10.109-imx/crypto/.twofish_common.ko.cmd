@@ -1,0 +1,1 @@
+cmd_crypto/twofish_common.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o crypto/twofish_common.ko crypto/twofish_common.o crypto/twofish_common.mod.o;  true

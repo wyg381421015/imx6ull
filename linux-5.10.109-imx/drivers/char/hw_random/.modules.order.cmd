@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/modules.order := {   echo drivers/char/hw_random/rng-core.ko;   echo drivers/char/hw_random/imx-rngc.ko;   echo drivers/char/hw_random/optee-rng.ko; :; } | awk '!x[$$0]++' - > drivers/char/hw_random/modules.order

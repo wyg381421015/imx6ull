@@ -1,0 +1,4 @@
+drivers/video/mxsfb.c:655:12:mxs_video_bind	8	static
+drivers/video/mxsfb.c:666:12:mxs_video_remove	16	static
+drivers/video/mxsfb.c:57:13:mxsfb_system_setup	0	static
+drivers/video/mxsfb.c:486:12:mxs_video_probe	192	static

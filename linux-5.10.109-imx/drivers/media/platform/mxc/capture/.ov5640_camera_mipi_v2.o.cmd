@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/capture/ov5640_camera_mipi_v2.o := arm-buildroot-linux-uclibcgnueabihf-ld  -EL    -r -o drivers/media/platform/mxc/capture/ov5640_camera_mipi_v2.o drivers/media/platform/mxc/capture/ov5640_mipi_v2.o

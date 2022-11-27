@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/built-in.a := rm -f drivers/tty/serial/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/tty/serial/built-in.a drivers/tty/serial/serial_core.o drivers/tty/serial/earlycon.o drivers/tty/serial/imx.o drivers/tty/serial/imx_earlycon.o drivers/tty/serial/fsl_lpuart.o drivers/tty/serial/serial_mctrl_gpio.o

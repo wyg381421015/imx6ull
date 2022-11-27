@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/e4000.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/tuners/e4000.ko drivers/media/tuners/e4000.o drivers/media/tuners/e4000.mod.o;  true

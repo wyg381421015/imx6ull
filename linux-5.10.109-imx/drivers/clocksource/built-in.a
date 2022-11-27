@@ -1,0 +1,16 @@
+!<thin>
+//                                              102       `
+timer-of.o/
+timer-probe.o/
+mmio.o/
+arm_arch_timer.o/
+dummy_timer.o/
+timer-imx-gpt.o/
+timer-imx-tpm.o/
+/0              0           0     0     644     3512      `
+/12             0           0     0     644     2424      `
+/27             0           0     0     644     2068      `
+/35             0           0     0     644     18056     `
+/53             0           0     0     644     2728      `
+/68             0           0     0     644     10288     `
+/85             0           0     0     644     4768      `

@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-imx/mx6/built-in.o :=  arm-buildroot-linux-uclibcgnueabihf-ld.bfd     -r -o arch/arm/mach-imx/mx6/built-in.o arch/arm/mach-imx/mx6/soc.o arch/arm/mach-imx/mx6/clock.o arch/arm/mach-imx/mx6/module_fuse.o 

@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/sp8870.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/sp8870.ko drivers/media/dvb-frontends/sp8870.o drivers/media/dvb-frontends/sp8870.mod.o;  true

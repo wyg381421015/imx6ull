@@ -1,0 +1,8 @@
+drivers/mmc/fsl_esdhc_imx.c:1609:12:fsl_esdhc_get_cd	16	static
+drivers/mmc/fsl_esdhc_imx.c:1691:12:fsl_esdhc_bind	8	static
+drivers/mmc/fsl_esdhc_imx.c:1625:12:fsl_esdhc_set_ios	40	static
+drivers/mmc/fsl_esdhc_imx.c:1616:12:fsl_esdhc_send_cmd	40	static
+drivers/mmc/fsl_esdhc_imx.c:1379:12:esdhc_status_fixup	0	static
+drivers/mmc/fsl_esdhc_imx.c:1391:6:fdt_fixup_esdhc	16	static
+drivers/mmc/fsl_esdhc_imx.c:1405:13:init_clk_usdhc	0	static
+drivers/mmc/fsl_esdhc_imx.c:1409:12:fsl_esdhc_probe	56	static

@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/lg2160.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/lg2160.ko drivers/media/dvb-frontends/lg2160.o drivers/media/dvb-frontends/lg2160.mod.o;  true

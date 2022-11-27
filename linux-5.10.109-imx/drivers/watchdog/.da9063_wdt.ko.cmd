@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/da9063_wdt.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/watchdog/da9063_wdt.ko drivers/watchdog/da9063_wdt.o drivers/watchdog/da9063_wdt.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/built-in.a := rm -f drivers/watchdog/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/watchdog/built-in.a drivers/watchdog/watchdog_core.o drivers/watchdog/watchdog_dev.o drivers/watchdog/rn5t618_wdt.o drivers/watchdog/imx2_wdt.o drivers/watchdog/imx7ulp_wdt.o drivers/watchdog/da9062_wdt.o

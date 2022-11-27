@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/nxt200x.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/nxt200x.ko drivers/media/dvb-frontends/nxt200x.o drivers/media/dvb-frontends/nxt200x.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/stv0297.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/stv0297.ko drivers/media/dvb-frontends/stv0297.o drivers/media/dvb-frontends/stv0297.mod.o;  true

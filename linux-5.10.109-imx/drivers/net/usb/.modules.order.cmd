@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/modules.order := {   echo drivers/net/usb/pegasus.ko;   echo drivers/net/usb/rtl8150.ko;   echo drivers/net/usb/cdc_eem.ko; :; } | awk '!x[$$0]++' - > drivers/net/usb/modules.order

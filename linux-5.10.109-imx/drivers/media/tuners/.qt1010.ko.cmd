@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/qt1010.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/tuners/qt1010.ko drivers/media/tuners/qt1010.o drivers/media/tuners/qt1010.mod.o;  true

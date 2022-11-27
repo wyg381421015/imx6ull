@@ -1,0 +1,1 @@
+cmd_drivers/iio/adc/built-in.a := rm -f drivers/iio/adc/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/iio/adc/built-in.a drivers/iio/adc/imx7d_adc.o drivers/iio/adc/rn5t618-adc.o drivers/iio/adc/vf610_adc.o

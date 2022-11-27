@@ -1,0 +1,1 @@
+cmd_drivers/crypto/built-in.a := rm -f drivers/crypto/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/crypto/built-in.a drivers/crypto/mxs-dcp.o drivers/crypto/sahara.o drivers/crypto/hisilicon/built-in.a

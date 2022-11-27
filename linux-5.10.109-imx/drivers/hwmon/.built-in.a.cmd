@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/built-in.a := rm -f drivers/hwmon/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/hwmon/built-in.a drivers/hwmon/hwmon.o drivers/hwmon/gpio-fan.o drivers/hwmon/iio_hwmon.o drivers/hwmon/max17135-hwmon.o drivers/hwmon/mc13783-adc.o drivers/hwmon/mag3110.o drivers/hwmon/mxc_mma8451.o

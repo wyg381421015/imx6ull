@@ -1,0 +1,1 @@
+cmd_crypto/camellia_generic.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o crypto/camellia_generic.ko crypto/camellia_generic.o crypto/camellia_generic.mod.o;  true

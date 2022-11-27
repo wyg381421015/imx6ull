@@ -1,0 +1,1 @@
+cmd_drivers/irqchip/built-in.a := rm -f drivers/irqchip/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/irqchip/built-in.a drivers/irqchip/irqchip.o drivers/irqchip/irq-gic.o drivers/irqchip/irq-gic-common.o drivers/irqchip/irq-imx-gpcv2.o drivers/irqchip/irq-imx-irqsteer.o drivers/irqchip/irq-imx-intmux.o

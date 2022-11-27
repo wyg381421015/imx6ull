@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/ehset.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/usb/misc/ehset.ko drivers/usb/misc/ehset.o drivers/usb/misc/ehset.mod.o;  true

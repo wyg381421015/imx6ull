@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/coda/modules.order := {   echo drivers/media/platform/coda/coda-vpu.ko;   echo drivers/media/platform/coda/imx-vdoa.ko; :; } | awk '!x[$$0]++' - > drivers/media/platform/coda/modules.order

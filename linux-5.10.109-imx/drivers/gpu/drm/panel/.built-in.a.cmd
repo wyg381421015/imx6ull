@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/built-in.a := rm -f drivers/gpu/drm/panel/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/gpu/drm/panel/built-in.a drivers/gpu/drm/panel/panel-lvds.o drivers/gpu/drm/panel/panel-simple.o drivers/gpu/drm/panel/panel-seiko-43wvf1g.o

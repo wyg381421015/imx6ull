@@ -1,0 +1,1 @@
+cmd_drivers/staging/built-in.a := rm -f drivers/staging/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/staging/built-in.a drivers/staging/media/built-in.a drivers/staging/iio/built-in.a drivers/staging/android/built-in.a drivers/staging/hikey9xx/built-in.a

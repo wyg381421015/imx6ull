@@ -1,0 +1,58 @@
+!<thin>
+//                                              546       `
+of_touchscreen.o/
+ad7879.o/
+ad7879-i2c.o/
+ads7846.o/
+atmel_mxt_ts.o/
+vtl/vtl_ts.o/
+da9052_tsi.o/
+edt-ft5x06.o/
+elan_ts.o/
+egalax_ts.o/
+focaltech_touch/focaltech_core.o/
+focaltech_touch/focaltech_esdcheck.o/
+focaltech_touch/focaltech_ex_mode.o/
+focaltech_touch/focaltech_gesture.o/
+focaltech_touch/focaltech_point_report_check.o/
+focaltech_touch/focaltech_i2c.o/
+focaltech_touch/focaltech_sensor.o/
+goodix.o/
+ili210x.o/
+imx6ul_tsc.o/
+max11801_ts.o/
+mc13783_ts.o/
+stmpe-ts.o/
+tsc200x-core.o/
+tsc2004.o/
+tsc2007_core.o/
+sx8654.o/
+colibri-vf50-ts.o/
+/0              0           0     0     644     6056      `
+/18             0           0     0     644     11400     `
+/28             0           0     0     644     4460      `
+/42             0           0     0     644     20680     `
+/53             0           0     0     644     32436     `
+/69             0           0     0     644     9252      `
+/83             0           0     0     644     8260      `
+/97             0           0     0     644     22152     `
+/111            0           0     0     644     9700      `
+/122            0           0     0     644     7372      `
+/135            0           0     0     644     15272     `
+/169            0           0     0     644     792       `
+/207            0           0     0     644     2064      `
+/244            0           0     0     644     792       `
+/281            0           0     0     644     804       `
+/329            0           0     0     644     3596      `
+/362            0           0     0     644     792       `
+/398            0           0     0     644     19636     `
+/408            0           0     0     644     11064     `
+/419            0           0     0     644     10216     `
+/433            0           0     0     644     7572      `
+/448            0           0     0     644     6820      `
+/462            0           0     0     644     7804      `
+/474            0           0     0     644     12744     `
+/490            0           0     0     644     4588      `
+/501            0           0     0     644     10152     `
+/517            0           0     0     644     9308      `
+/527            0           0     0     644     7932      `

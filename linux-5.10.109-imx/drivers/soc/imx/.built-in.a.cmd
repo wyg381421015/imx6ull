@@ -1,0 +1,1 @@
+cmd_drivers/soc/imx/built-in.a := rm -f drivers/soc/imx/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/soc/imx/built-in.a drivers/soc/imx/soc-imx.o drivers/soc/imx/gpc.o drivers/soc/imx/gpcv2.o drivers/soc/imx/mu/built-in.a drivers/soc/imx/imx8m_pm_domains.o

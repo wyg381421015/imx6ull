@@ -1,0 +1,2 @@
+drivers/input/mouse/psmouse.ko
+drivers/input/evbug.ko

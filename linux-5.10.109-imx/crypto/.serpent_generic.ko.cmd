@@ -1,0 +1,1 @@
+cmd_crypto/serpent_generic.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o crypto/serpent_generic.ko crypto/serpent_generic.o crypto/serpent_generic.mod.o;  true

@@ -1,0 +1,6 @@
+board/freescale/mx6ull_ygst/mx6ull_ygst.c:123:5:dram_init	8	static
+board/freescale/mx6ull_ygst/mx6ull_ygst.c:244:5:board_phy_config	24	static
+board/freescale/mx6ull_ygst/mx6ull_ygst.c:283:5:board_early_init_f	8	static
+board/freescale/mx6ull_ygst/mx6ull_ygst.c:290:5:board_init	8	static
+board/freescale/mx6ull_ygst/mx6ull_ygst.c:320:5:board_late_init	8	static
+board/freescale/mx6ull_ygst/mx6ull_ygst.c:356:5:checkboard	8	static

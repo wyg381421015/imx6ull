@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/tuner-xc2028.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/tuners/tuner-xc2028.ko drivers/media/tuners/tuner-xc2028.o drivers/media/tuners/tuner-xc2028.mod.o;  true

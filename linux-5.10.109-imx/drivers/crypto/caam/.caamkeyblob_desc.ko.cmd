@@ -1,0 +1,1 @@
+cmd_drivers/crypto/caam/caamkeyblob_desc.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/crypto/caam/caamkeyblob_desc.ko drivers/crypto/caam/caamkeyblob_desc.o drivers/crypto/caam/caamkeyblob_desc.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/capture/ipu_bg_overlay_sdc.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/platform/mxc/capture/ipu_bg_overlay_sdc.ko drivers/media/platform/mxc/capture/ipu_bg_overlay_sdc.o drivers/media/platform/mxc/capture/ipu_bg_overlay_sdc.mod.o;  true

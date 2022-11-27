@@ -1,0 +1,1 @@
+cmd_crypto/cast6_generic.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o crypto/cast6_generic.ko crypto/cast6_generic.o crypto/cast6_generic.mod.o;  true

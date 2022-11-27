@@ -1,0 +1,12 @@
+!<thin>
+//                                              80        `
+imx/soc-imx.o/
+imx/gpc.o/
+imx/gpcv2.o/
+imx/mu/mx8_mu.o/
+imx/imx8m_pm_domains.o/
+/0              0           0     0     644     6136      `
+/15             0           0     0     644     14128     `
+/26             0           0     0     644     21228     `
+/39             0           0     0     644     2656      `
+/56             0           0     0     644     7448      `

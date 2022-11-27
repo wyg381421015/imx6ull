@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/synaptics_dsx/built-in.a := rm -f drivers/input/touchscreen/synaptics_dsx/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/input/touchscreen/synaptics_dsx/built-in.a 

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/capture/adv7180_tvin.o := arm-buildroot-linux-uclibcgnueabihf-ld  -EL    -r -o drivers/media/platform/mxc/capture/adv7180_tvin.o drivers/media/platform/mxc/capture/adv7180.o

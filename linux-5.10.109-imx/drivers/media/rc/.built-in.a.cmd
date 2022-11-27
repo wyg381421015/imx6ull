@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/built-in.a := rm -f drivers/media/rc/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/media/rc/built-in.a drivers/media/rc/keymaps/built-in.a drivers/media/rc/rc-main.o drivers/media/rc/rc-ir-raw.o drivers/media/rc/gpio-ir-recv.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/capture/mxc_mipi_csi.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/platform/mxc/capture/mxc_mipi_csi.ko drivers/media/platform/mxc/capture/mxc_mipi_csi.o drivers/media/platform/mxc/capture/mxc_mipi_csi.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/gadgetfs.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/usb/gadget/legacy/gadgetfs.ko drivers/usb/gadget/legacy/gadgetfs.o drivers/usb/gadget/legacy/gadgetfs.mod.o;  true

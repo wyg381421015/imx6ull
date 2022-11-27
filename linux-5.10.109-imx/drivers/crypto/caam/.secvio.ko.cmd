@@ -1,0 +1,1 @@
+cmd_drivers/crypto/caam/secvio.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/crypto/caam/secvio.ko drivers/crypto/caam/secvio.o drivers/crypto/caam/secvio.mod.o;  true

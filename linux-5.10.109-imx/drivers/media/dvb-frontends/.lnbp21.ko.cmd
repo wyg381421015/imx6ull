@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/lnbp21.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/lnbp21.ko drivers/media/dvb-frontends/lnbp21.o drivers/media/dvb-frontends/lnbp21.mod.o;  true

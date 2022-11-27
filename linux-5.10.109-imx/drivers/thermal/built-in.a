@@ -1,0 +1,20 @@
+!<thin>
+//                                              152       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+thermal_hwmon.o/
+thermal_of.o/
+gov_step_wise.o/
+cpufreq_cooling.o/
+imx_thermal.o/
+device_cooling.o/
+/0              0           0     0     644     29236     `
+/16             0           0     0     644     16976     `
+/33             0           0     0     644     6156      `
+/52             0           0     0     644     6468      `
+/69             0           0     0     644     17720     `
+/83             0           0     0     644     2652      `
+/100            0           0     0     644     7060      `
+/119            0           0     0     644     14740     `
+/134            0           0     0     644     5912      `

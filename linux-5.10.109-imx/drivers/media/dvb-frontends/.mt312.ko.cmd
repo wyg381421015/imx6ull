@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/mt312.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/mt312.ko drivers/media/dvb-frontends/mt312.o drivers/media/dvb-frontends/mt312.mod.o;  true

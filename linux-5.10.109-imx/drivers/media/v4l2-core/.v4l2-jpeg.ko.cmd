@@ -1,0 +1,1 @@
+cmd_drivers/media/v4l2-core/v4l2-jpeg.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/v4l2-core/v4l2-jpeg.ko drivers/media/v4l2-core/v4l2-jpeg.o drivers/media/v4l2-core/v4l2-jpeg.mod.o;  true

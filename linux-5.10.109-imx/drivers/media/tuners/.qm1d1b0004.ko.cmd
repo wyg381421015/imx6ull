@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/qm1d1b0004.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/tuners/qm1d1b0004.ko drivers/media/tuners/qm1d1b0004.o drivers/media/tuners/qm1d1b0004.mod.o;  true

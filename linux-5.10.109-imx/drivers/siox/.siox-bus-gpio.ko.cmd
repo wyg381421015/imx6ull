@@ -1,0 +1,1 @@
+cmd_drivers/siox/siox-bus-gpio.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/siox/siox-bus-gpio.ko drivers/siox/siox-bus-gpio.o drivers/siox/siox-bus-gpio.mod.o;  true

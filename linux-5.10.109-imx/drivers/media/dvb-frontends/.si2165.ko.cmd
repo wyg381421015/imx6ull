@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/si2165.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/si2165.ko drivers/media/dvb-frontends/si2165.o drivers/media/dvb-frontends/si2165.mod.o;  true

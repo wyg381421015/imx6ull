@@ -1,0 +1,1 @@
+cmd_drivers/rpmsg/imx_rpmsg_pingpong.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/rpmsg/imx_rpmsg_pingpong.ko drivers/rpmsg/imx_rpmsg_pingpong.o drivers/rpmsg/imx_rpmsg_pingpong.mod.o;  true

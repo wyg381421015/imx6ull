@@ -1,0 +1,1 @@
+cmd_drivers/media/i2c/ov5645.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/i2c/ov5645.ko drivers/media/i2c/ov5645.o drivers/media/i2c/ov5645.mod.o;  true

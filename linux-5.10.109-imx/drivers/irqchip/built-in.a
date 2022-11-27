@@ -1,0 +1,15 @@
+!<thin>
+//                                              96        `
+irqchip.o/
+irq-gic.o/
+irq-gic-common.o/
+irq-imx-gpcv2.o/
+irq-imx-irqsteer.o/
+irq-imx-intmux.o/
+
+/0              0           0     0     644     3032      `
+/11             0           0     0     644     23284     `
+/22             0           0     0     644     2764      `
+/40             0           0     0     644     9248      `
+/57             0           0     0     644     8676      `
+/77             0           0     0     644     7848      `

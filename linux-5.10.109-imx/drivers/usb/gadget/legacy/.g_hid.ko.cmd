@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/legacy/g_hid.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/usb/gadget/legacy/g_hid.ko drivers/usb/gadget/legacy/g_hid.o drivers/usb/gadget/legacy/g_hid.mod.o;  true

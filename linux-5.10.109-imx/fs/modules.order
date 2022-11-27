@@ -1,0 +1,6 @@
+fs/fat/msdos.ko
+fs/nfs/blocklayout/blocklayoutdriver.ko
+fs/nls/nls_iso8859-15.ko
+fs/binfmt_misc.ko
+fs/isofs/isofs.ko
+fs/udf/udf.ko

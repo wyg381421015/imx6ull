@@ -1,0 +1,13 @@
+drivers/spi/fsl_qspi.c:1188:12:fsl_qspi_set_speed	0	static
+drivers/spi/fsl_qspi.c:947:12:fsl_qspi_child_pre_probe	16	static
+drivers/spi/fsl_qspi.c:1083:12:fsl_qspi_ofdata_to_platdata	48	static
+drivers/spi/fsl_qspi.c:184:12:qspi_read32	0	static
+drivers/spi/fsl_qspi.c:190:13:qspi_write32	0	static
+drivers/spi/fsl_qspi.c:1194:12:fsl_qspi_set_mode	0	static
+drivers/spi/fsl_qspi.c:850:5:qspi_xfer	48	static
+drivers/spi/fsl_qspi.c:1138:12:fsl_qspi_xfer	24	static
+drivers/spi/fsl_qspi.c:925:6:qspi_module_disable	8	static
+drivers/spi/fsl_qspi.c:1175:12:fsl_qspi_release_bus	8	static
+drivers/spi/fsl_qspi.c:1150:12:fsl_qspi_claim_bus	24	static
+drivers/spi/fsl_qspi.c:937:6:qspi_cfg_smpr	8	static
+drivers/spi/fsl_qspi.c:957:12:fsl_qspi_probe	16	static

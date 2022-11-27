@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/msi001.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/tuners/msi001.ko drivers/media/tuners/msi001.o drivers/media/tuners/msi001.mod.o;  true

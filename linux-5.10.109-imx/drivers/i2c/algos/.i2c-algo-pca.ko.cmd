@@ -1,0 +1,1 @@
+cmd_drivers/i2c/algos/i2c-algo-pca.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/i2c/algos/i2c-algo-pca.ko drivers/i2c/algos/i2c-algo-pca.o drivers/i2c/algos/i2c-algo-pca.mod.o;  true

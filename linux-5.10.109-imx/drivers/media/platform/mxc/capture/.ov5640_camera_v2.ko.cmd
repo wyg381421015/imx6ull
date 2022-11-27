@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/capture/ov5640_camera_v2.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/platform/mxc/capture/ov5640_camera_v2.ko drivers/media/platform/mxc/capture/ov5640_camera_v2.o drivers/media/platform/mxc/capture/ov5640_camera_v2.mod.o;  true

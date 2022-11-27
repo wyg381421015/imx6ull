@@ -1,0 +1,1 @@
+cmd_crypto/blowfish_common.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o crypto/blowfish_common.ko crypto/blowfish_common.o crypto/blowfish_common.mod.o;  true

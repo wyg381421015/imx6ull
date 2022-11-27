@@ -1,0 +1,115 @@
+!<thin>
+//                                              882       `
+cpu.o/
+system.o/
+irq-common.o/
+common.o/
+cpuidle-imx6q.o/
+cpuidle-imx6sl.o/
+imx6sl_low_power_idle.o/
+cpuidle-imx6sll.o/
+imx6sll_low_power_idle.o/
+cpuidle-imx6sx.o/
+imx6sx_low_power_idle.o/
+cpuidle-imx6ul.o/
+imx6ul_low_power_idle.o/
+imx6ull_low_power_idle.o/
+cpuidle-imx7ulp.o/
+pm-rpmsg.o/
+cpuidle-imx7d.o/
+imx7d_low_power_idle.o/
+anatop.o/
+gpc.o/
+gpcv2.o/
+mmdc.o/
+src.o/
+ddrc.o/
+mu.o/
+headsmp.o/
+platsmp.o/
+hotplug.o/
+mach-imx6q.o/
+ddr3_freq_imx6.o/
+smp_wfe_imx6.o/
+lpddr2_freq_imx6q.o/
+mach-imx6sl.o/
+lpddr2_freq_imx6.o/
+lpddr2_freq_imx6sll.o/
+mach-imx6sx.o/
+ddr3_freq_imx6sx.o/
+lpddr2_freq_imx6sx.o/
+mach-imx6ul.o/
+mach-imx7d.o/
+pm-imx7.o/
+ddr3_freq_imx7d.o/
+smp_wfe.o/
+lpddr3_freq_imx.o/
+suspend-imx7.o/
+mach-imx7ulp.o/
+pm-imx7ulp.o/
+busfreq-imx.o/
+busfreq_ddr3.o/
+busfreq_lpddr2.o/
+suspend-imx6.o/
+suspend-imx7ulp.o/
+resume-imx6.o/
+pm-imx6.o/
+busfreq_optee.o/
+smp_wfe_optee.o/
+
+/0              0           0     0     644     3020      `
+/7              0           0     0     644     3016      `
+/17             0           0     0     644     1880      `
+/31             0           0     0     644     2972      `
+/41             0           0     0     644     5140      `
+/58             0           0     0     644     7644      `
+/76             0           0     0     644     2704      `
+/101            0           0     0     644     5220      `
+/120            0           0     0     644     3004      `
+/146            0           0     0     644     5288      `
+/164            0           0     0     644     3448      `
+/189            0           0     0     644     6792      `
+/207            0           0     0     644     3196      `
+/232            0           0     0     644     2988      `
+/258            0           0     0     644     3140      `
+/277            0           0     0     644     9348      `
+/289            0           0     0     644     6832      `
+/306            0           0     0     644     3044      `
+/330            0           0     0     644     4968      `
+/340            0           0     0     644     11404     `
+/347            0           0     0     644     11956     `
+/356            0           0     0     644     12264     `
+/364            0           0     0     644     4416      `
+/371            0           0     0     644     3320      `
+/379            0           0     0     644     9436      `
+/385            0           0     0     644     828       `
+/396            0           0     0     644     4052      `
+/407            0           0     0     644     1612      `
+/418            0           0     0     644     9520      `
+/432            0           0     0     644     5044      `
+/450            0           0     0     644     1132      `
+/466            0           0     0     644     3504      `
+/487            0           0     0     644     3828      `
+/502            0           0     0     644     2932      `
+/522            0           0     0     644     2024      `
+/545            0           0     0     644     4288      `
+/560            0           0     0     644     3440      `
+/580            0           0     0     644     2204      `
+/602            0           0     0     644     4024      `
+/617            0           0     0     644     4452      `
+/631            0           0     0     644     14864     `
+/642            0           0     0     644     2424      `
+/661            0           0     0     644     948       `
+/672            0           0     0     644     1920      `
+/691            0           0     0     644     3144      `
+/707            0           0     0     644     3452      `
+/723            0           0     0     644     12268     `
+/737            0           0     0     644     28388     `
+/752            0           0     0     644     13240     `
+/768            0           0     0     644     7800      `
+/786            0           0     0     644     3932      `
+/802            0           0     0     644     2452      `
+/821            0           0     0     644     832       `
+/836            0           0     0     644     18020     `
+/847            0           0     0     644     5004      `
+/864            0           0     0     644     896       `

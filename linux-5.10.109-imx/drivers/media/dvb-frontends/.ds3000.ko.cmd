@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/ds3000.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/dvb-frontends/ds3000.ko drivers/media/dvb-frontends/ds3000.o drivers/media/dvb-frontends/ds3000.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/crypto/caam/sm_test.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/crypto/caam/sm_test.ko drivers/crypto/caam/sm_test.o drivers/crypto/caam/sm_test.mod.o;  true

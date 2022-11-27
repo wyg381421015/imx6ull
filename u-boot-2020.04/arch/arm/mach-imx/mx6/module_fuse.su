@@ -1,0 +1,9 @@
+arch/arm/mach-imx/mx6/module_fuse.c:261:5:check_module_fused	12	static
+arch/arm/mach-imx/mx6/module_fuse.c:305:5:ft_system_setup	40	static
+arch/arm/mach-imx/mx6/module_fuse.c:341:5:mx6_esdhc_fused	0	static
+arch/arm/mach-imx/mx6/module_fuse.c:361:5:mx6_ecspi_fused	0	static
+arch/arm/mach-imx/mx6/module_fuse.c:381:5:mx6_uart_fused	0	static
+arch/arm/mach-imx/mx6/module_fuse.c:410:5:mx6_usb_fused	0	static
+arch/arm/mach-imx/mx6/module_fuse.c:416:5:mx6_qspi_fused	0	static
+arch/arm/mach-imx/mx6/module_fuse.c:433:5:mx6_i2c_fused	0	static
+arch/arm/mach-imx/mx6/module_fuse.c:451:5:mx6_enet_fused	0	static

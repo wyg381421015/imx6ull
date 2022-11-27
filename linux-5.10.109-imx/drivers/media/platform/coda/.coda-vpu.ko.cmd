@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/coda/coda-vpu.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/platform/coda/coda-vpu.ko drivers/media/platform/coda/coda-vpu.o drivers/media/platform/coda/coda-vpu.mod.o;  true

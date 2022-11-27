@@ -1,0 +1,21 @@
+!<thin>
+//                                              160       `
+pinctrl-imx.o/
+pinctrl-imx6q.o/
+pinctrl-imx6dl.o/
+pinctrl-imx6sl.o/
+pinctrl-imx6sll.o/
+pinctrl-imx6sx.o/
+pinctrl-imx6ul.o/
+pinctrl-imx7d.o/
+pinctrl-imx7ulp.o/
+
+/0              0           0     0     644     13132     `
+/15             0           0     0     644     11672     `
+/32             0           0     0     644     11824     `
+/50             0           0     0     644     9892      `
+/68             0           0     0     644     9608      `
+/87             0           0     0     644     10284     `
+/105            0           0     0     644     9484      `
+/123            0           0     0     644     10192     `
+/140            0           0     0     644     8080      `

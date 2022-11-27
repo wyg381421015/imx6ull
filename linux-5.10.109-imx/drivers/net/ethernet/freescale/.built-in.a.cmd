@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/freescale/built-in.a := rm -f drivers/net/ethernet/freescale/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/net/ethernet/freescale/built-in.a drivers/net/ethernet/freescale/fec_main.o drivers/net/ethernet/freescale/fec_ptp.o drivers/net/ethernet/freescale/enetc/built-in.a

@@ -1,0 +1,11 @@
+!<thin>
+//                                              86        `
+phy-core.o/
+phy-mixel-lvds.o/
+phy-mixel-lvds-combo.o/
+freescale/phy-fsl-imx8-pcie.o/
+
+/0              0           0     0     644     33964     `
+/12             0           0     0     644     9924      `
+/30             0           0     0     644     9776      `
+/54             0           0     0     644     7048      `

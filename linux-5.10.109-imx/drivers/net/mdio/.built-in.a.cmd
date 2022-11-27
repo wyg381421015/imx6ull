@@ -1,0 +1,1 @@
+cmd_drivers/net/mdio/built-in.a := rm -f drivers/net/mdio/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/net/mdio/built-in.a drivers/net/mdio/fwnode_mdio.o drivers/net/mdio/of_mdio.o

@@ -1,0 +1,24 @@
+!<thin>
+//                                              194       `
+i2c-boardinfo.o/
+i2c-core-base.o/
+i2c-core-smbus.o/
+i2c-core-of.o/
+i2c-dev.o/
+i2c-mux.o/
+algos/i2c-algo-bit.o/
+busses/i2c-gpio.o/
+busses/i2c-imx.o/
+busses/i2c-imx-lpi2c.o/
+muxes/i2c-mux-gpio.o/
+/0              0           0     0     644     3816      `
+/17             0           0     0     644     52752     `
+/34             0           0     0     644     15740     `
+/52             0           0     0     644     8324      `
+/67             0           0     0     644     11612     `
+/78             0           0     0     644     9652      `
+/89             0           0     0     644     10476     `
+/111            0           0     0     644     6960      `
+/130            0           0     0     644     23328     `
+/148            0           0     0     644     15260     `
+/172            0           0     0     644     6644      `

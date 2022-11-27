@@ -1,0 +1,17 @@
+drivers/media/platform/coda/coda-vpu.ko
+drivers/media/platform/coda/imx-vdoa.ko
+drivers/media/platform/mxc/capture/mxc_v4l2_capture.ko
+drivers/media/platform/mxc/capture/ipu_fg_overlay_sdc.ko
+drivers/media/platform/mxc/capture/ipu_bg_overlay_sdc.ko
+drivers/media/platform/mxc/capture/ipu_prp_enc.ko
+drivers/media/platform/mxc/capture/ipu_still.ko
+drivers/media/platform/mxc/capture/ipu_csi_enc.ko
+drivers/media/platform/mxc/capture/mx6s_capture.ko
+drivers/media/platform/mxc/capture/mxc_vadc.ko
+drivers/media/platform/mxc/capture/mxc_mipi_csi.ko
+drivers/media/platform/mxc/capture/ov5640_camera_int.ko
+drivers/media/platform/mxc/capture/ov5640_camera_v2.ko
+drivers/media/platform/mxc/capture/ov5640_camera_mipi_int.ko
+drivers/media/platform/mxc/capture/ov5640_camera_mipi_v2.ko
+drivers/media/platform/mxc/capture/adv7180_tvin.ko
+drivers/media/platform/mxc/capture/v4l2-int-device.ko

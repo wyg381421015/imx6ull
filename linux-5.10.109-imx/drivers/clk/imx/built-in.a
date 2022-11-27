@@ -1,0 +1,54 @@
+!<thin>
+//                                              382       `
+clk.o/
+clk-busy.o/
+clk-composite-7ulp.o/
+clk-composite-8m.o/
+clk-cpu.o/
+clk-divider-gate.o/
+clk-fixup-div.o/
+clk-fixup-mux.o/
+clk-frac-pll.o/
+clk-gate2.o/
+clk-gate-exclusive.o/
+clk-pfd.o/
+clk-pfdv2.o/
+clk-pllv1.o/
+clk-pllv2.o/
+clk-pllv3.o/
+clk-pllv4.o/
+clk-pll14xx.o/
+clk-sscg-pll.o/
+clk-imx6q.o/
+clk-imx6sl.o/
+clk-imx6sll.o/
+clk-imx6sx.o/
+clk-imx6ul.o/
+clk-imx7d.o/
+clk-imx7ulp.o/
+/0              0           0     0     644     7792      `
+/7              0           0     0     644     3176      `
+/19             0           0     0     644     3380      `
+/41             0           0     0     644     4796      `
+/61             0           0     0     644     2916      `
+/72             0           0     0     644     3840      `
+/92             0           0     0     644     2616      `
+/109            0           0     0     644     2432      `
+/126            0           0     0     644     3672      `
+/142            0           0     0     644     4248      `
+/155            0           0     0     644     2324      `
+/177            0           0     0     644     3488      `
+/188            0           0     0     644     3872      `
+/201            0           0     0     644     2160      `
+/214            0           0     0     644     3320      `
+/227            0           0     0     644     7220      `
+/240            0           0     0     644     3500      `
+/253            0           0     0     644     7980      `
+/268            0           0     0     644     6064      `
+/284            0           0     0     644     49736     `
+/297            0           0     0     644     28260     `
+/311            0           0     0     644     27724     `
+/326            0           0     0     644     44400     `
+/340            0           0     0     644     38556     `
+/354            0           0     0     644     66904     `
+/367            0           0     0     644     14940     `

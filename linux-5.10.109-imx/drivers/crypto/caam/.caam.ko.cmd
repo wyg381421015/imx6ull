@@ -1,0 +1,1 @@
+cmd_drivers/crypto/caam/caam.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/crypto/caam/caam.ko drivers/crypto/caam/caam.o drivers/crypto/caam/caam.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/mxc/capture/v4l2-int-device.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/platform/mxc/capture/v4l2-int-device.ko drivers/media/platform/mxc/capture/v4l2-int-device.o drivers/media/platform/mxc/capture/v4l2-int-device.mod.o;  true

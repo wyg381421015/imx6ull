@@ -1,0 +1,1 @@
+cmd_drivers/iommu/built-in.a := rm -f drivers/iommu/built-in.a; arm-buildroot-linux-uclibcgnueabihf-ar cDPrST drivers/iommu/built-in.a drivers/iommu/amd/built-in.a drivers/iommu/intel/built-in.a drivers/iommu/arm/built-in.a

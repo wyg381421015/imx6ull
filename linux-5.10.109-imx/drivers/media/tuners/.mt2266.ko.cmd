@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/mt2266.ko := arm-buildroot-linux-uclibcgnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o drivers/media/tuners/mt2266.ko drivers/media/tuners/mt2266.o drivers/media/tuners/mt2266.mod.o;  true
